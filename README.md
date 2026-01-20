@@ -33,26 +33,19 @@ I believe great systems are invisible when they work — and unforgettable when 
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks**
-🟣 C# (.NET 6/7/8) · ⚫ JavaScript · 🔷 TypeScript · ⚛️ React · Node.js · Express
+🟣 **C# (.NET 8)**   ⚫ **JavaScript**   🔷 **TypeScript**   ⚛️ **React**   🟢 **Node.js**   📦 **Express**
 
-**Backend & Microservices**
-🏛️ ASP.NET Core · REST · gRPC · API Gateway (Ocelot / YARP)
+🏛️ **ASP.NET Core**   🌐 **REST + gRPC**   🚪 **API Gateway** (Ocelot/YARP)
 
-**Databases**
-🗄️ SQL Server · MySQL · MongoDB
+🗄️ **SQL Server**   🐬 **MySQL**   🍃 **MongoDB**
 
-**DevOps & Infra**
-🐳 Docker · GitHub Actions · CI/CD · Cloud-ready containerized services
+🐳 **Docker**   ⚙️ **GitHub Actions**   ☁️ **CI/CD + Cloud**
 
-**Security**
-🔐 OAuth2 · OpenID Connect · JWT · RBAC
+🔐 **OAuth2 / OIDC / JWT / RBAC**
 
-**Architecture**
-Clean Architecture · DDD · CQRS · Event-driven systems · Resilience patterns
+🧱 **Clean Arch • DDD • CQRS**   ⚡ **Event-Driven • Resilience**
 
-**Observability**
-Structured logs · Metrics · Distributed tracing (OpenTelemetry)
+📊 **OpenTelemetry • Logs • Metrics**
 
 ---
 
