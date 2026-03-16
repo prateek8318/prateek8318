@@ -102,7 +102,7 @@ I work deeply with:
 I enjoy working with people who care about quality, architecture, and impact.
 
 * GitHub: [https://github.com/prateek8318](https://github.com/prateek8318)
-* LinkedIn: [https://www.linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/prateek-pandey-6087b624b/))
+* LinkedIn: [https://www.linkedin.com/in/prateek-pandey-6087b624b/]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/prateek-pandey-6087b624b/))
 * Email: [prateekpandey2580@gmail.com](mailto:prateekpandey2580@gmail.com)
 
 Open to **full-time roles, consulting, and technical collaborations**.
