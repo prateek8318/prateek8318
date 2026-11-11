@@ -126,10 +126,10 @@ public sealed class Prateek : Engineer
 
 <div align="center">
 
-<a href="https://github.com/prateek8318/Parking-Mitra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prateek8318&repo=Parking-Mitra&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/prateek8318/HotelBooking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prateek8318&repo=HotelBooking&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/prateek8318/TextAnalyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prateek8318&repo=TextAnalyzer&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/prateek8318/photo-album"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prateek8318&repo=photo-album&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/prateek8318/Parking-Mitra"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=prateek8318&repo=Parking-Mitra&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/prateek8318/HotelBooking"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=prateek8318&repo=HotelBooking&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/prateek8318/TextAnalyzer"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=prateek8318&repo=TextAnalyzer&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/prateek8318/photo-album"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=prateek8318&repo=photo-album&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
@@ -139,12 +139,12 @@ public sealed class Prateek : Engineer
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prateek8318&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek8318&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=prateek8318&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prateek8318&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com?user=prateek8318&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prateek8318&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateek8318&theme=tokyonight" width="100%" />
 
 </div>
 
